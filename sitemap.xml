@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://edmon-leo.github.io/2022/06/23/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%EF%BC%9A%E6%90%AC%E5%AE%B6-%E7%8C%AB%E7%8C%AB%E7%BB%9D%E8%82%B2/</loc>
+    
+    <lastmod>2022-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://edmon-leo.github.io/tags/index.html</loc>
     
     <lastmod>2022-05-08</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://edmon-leo.github.io/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,21 +66,35 @@
   
   <url>
     <loc>https://edmon-leo.github.io/tags/python/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://edmon-leo.github.io/tags/data-types/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://edmon-leo.github.io/tags/%E5%AE%A0%E7%89%A9/</loc>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://edmon-leo.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://edmon-leo.github.io/tags/%E6%8A%98%E8%85%BEing/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -80,14 +103,14 @@
   
   <url>
     <loc>https://edmon-leo.github.io/categories/Tech/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://edmon-leo.github.io/categories/%E9%9A%8F%E8%AE%B0/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
